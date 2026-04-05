@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
