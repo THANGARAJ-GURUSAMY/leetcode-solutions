@@ -1,22 +1,29 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int n=nums.length;
-        for(int i=0;i<n;i++)
+        Set<Integer> set=new HashSet<>();
+        for(int t:nums)
         {
-            int count=1;
-            for(int j=i+1;j<n;j++)
+            set.add(t);
+        }
+        int max=0;
+        int num=0;
+        for(int t:set)
+        {
+            int c=0;
+            for(int i=0;i<nums.length;i++)
             {
-                if(nums[i]==nums[j])
+                if(nums[i]==t)
                 {
-                    count++;
+                    c++;
                 }
             }
-            if(count>n/2){
-                return nums[i];
+            if(c>max)
+            {
+                max=c;
+                num=t;
             }
         }
-        return -1;
-    
+        return num;
         
     }
 }
