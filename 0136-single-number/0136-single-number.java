@@ -1,24 +1,20 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int pos=0;
-        for(int i=0;i<nums.length;i++)
-        {
-            int c=0;
-           for(int j=0;j<nums.length;j++)
-           {
-              if(nums[i]==nums[j])
-              {
-                c++;
-              }
-           }
-           if(c==1)
-           {
-            pos=i;
-            break;
-           }
+      Set<Integer> set=new HashSet<>();
+      for(int t:nums)
+      {
+         if(set.contains(t))
+         {
+            set.remove(t);
+         }
+         else
+         {
+            set.add(t);
+         }
+      }
+      List<Integer> l=new ArrayList<>(set);
+      return l.get(0);
 
-        }
-        return nums[pos];
         
     }
 }
