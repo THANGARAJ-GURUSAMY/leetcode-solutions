@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
