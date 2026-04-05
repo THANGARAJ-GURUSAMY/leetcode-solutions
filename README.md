@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0704-binary-search) |
 ## String
 |  |
