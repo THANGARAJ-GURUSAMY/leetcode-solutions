@@ -7,7 +7,7 @@ class Solution {
             if(set.contains(t))
             {
                 l.add(t);
-                set.remove(t);
+                
             }
             else
             {
