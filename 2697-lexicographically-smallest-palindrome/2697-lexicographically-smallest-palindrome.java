@@ -1,7 +1,7 @@
 class Solution {
     public String makeSmallestPalindrome(String s) {
         char[] a=s.toCharArray();
-        String res="";
+        StringBuilder sb=new StringBuilder();
         int i=0;
         int j=a.length-1;
         while(i<=j)
@@ -26,8 +26,8 @@ class Solution {
         }
         for(int k=0;k<a.length;k++)
         {
-            res+=a[k];
+            sb.append(a[k]);
         }
-        return res;
+        return sb.toString();
     }
 }
