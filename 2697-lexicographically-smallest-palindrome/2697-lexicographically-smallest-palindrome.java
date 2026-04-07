@@ -1,33 +1,14 @@
 class Solution {
     public String makeSmallestPalindrome(String s) {
-        char[] a=s.toCharArray();
-        StringBuilder sb=new StringBuilder();
-        int i=0;
-        int j=a.length-1;
-        while(i<=j)
+        char[] ch = s.toCharArray();
+        for(int i =0, j=s.length()-1; i<s.length()/2; i++, j--)
         {
-            char c1=a[i];
-            char c2=a[j];
-            if(c1!=c2)
+            if(ch[i]!=ch[j])
             {
-                int n1=c1-'0';
-                int n2=c2-'0';
-                if(n2>n1)
-                {
-                    a[j]=a[i];
-                }
-                else
-                {
-                    a[i]=a[j];
-                }
+                ch[i]=ch[j]=(char)Math.min(ch[i],ch[j]);
             }
-            i++;
-            j--;
         }
-        for(int k=0;k<a.length;k++)
-        {
-            sb.append(a[k]);
-        }
-        return sb.toString();
+        String str= String.valueOf(ch);
+        return str;
     }
 }
