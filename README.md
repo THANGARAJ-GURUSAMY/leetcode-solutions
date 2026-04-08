@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String Matching
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
