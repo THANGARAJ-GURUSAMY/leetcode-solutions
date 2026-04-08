@@ -20,22 +20,27 @@ class Solution {
             curr=next;
         }
         ListNode cuss=prev;
-        ListNode dummy=new ListNode(0);
-        dummy.next=cuss;
-        ListNode temp=dummy;
-        int c=1;
-        while(temp.next!=null)
+        if(n==1)
         {
-           if(c==n)
-           {
-            temp.next=temp.next.next;
-            break;
-           }
-           temp=temp.next;
-           c++;
+            cuss=cuss.next;
+        }
+        else
+        {
+            ListNode temp=cuss;
+            int c=1;
+            while(temp!=null&&temp.next!=null)
+            {
+                if(c==n-1)
+                {
+                    temp.next=temp.next.next;
+                    break;
+                }
+                temp=temp.next;
+                c++;
+            }
         }
         prev=null;
-        curr=dummy.next;
+        curr=cuss;
         while(curr!=null)
         {
             ListNode nn=curr.next;
