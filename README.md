@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1250-check-if-it-is-a-good-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1550-three-consecutive-odds](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
