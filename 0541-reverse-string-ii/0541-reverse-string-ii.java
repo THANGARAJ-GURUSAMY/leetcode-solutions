@@ -16,11 +16,7 @@ class Solution {
            }
            i+=2*k;
         }
-        StringBuilder sb=new StringBuilder();
-        for(char c:a)
-        {
-            sb.append(c);
-        }
-        return sb.toString();
+       
+        return new String(a);
     }
 }
