@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
+| [1089-duplicate-zeros](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1250-check-if-it-is-a-good-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1550-three-consecutive-odds](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1089-duplicate-zeros](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String Matching
