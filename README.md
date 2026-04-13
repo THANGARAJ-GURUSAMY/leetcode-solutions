@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2942-find-words-containing-character](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
