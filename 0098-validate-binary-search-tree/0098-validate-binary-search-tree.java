@@ -14,23 +14,21 @@
  * }
  */
 class Solution {
-    List<Integer> l=new ArrayList<>();
+   
     public boolean isValidBST(TreeNode root) {
+       return check(root,Long.MIN_VALUE,Long.MAX_VALUE);
+    }
+    public static boolean check(TreeNode root,Long min,Long max)
+    {
         if(root==null)
         {
             return true;
         }
-        isValidBST(root.left);
-        l.add(root.val);
-        isValidBST(root.right);
-        for(int i=0;i<l.size()-1;i++)
+        if(root.val<=min||root.val>=max)
         {
-            if(l.get(i)>=l.get(i+1))
-            {
-                return false;
-            }
-
+            return false;
         }
-        return true;
+        return check(root.left,min,(long)root.val)&&check(root.right,(long)root.val,max);
     }
+    
 }
