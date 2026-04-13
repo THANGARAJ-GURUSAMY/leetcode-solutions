@@ -14,16 +14,14 @@
  * }
  */
 class Solution {
-    List<Integer> l=new ArrayList<>();
+    
     public int countNodes(TreeNode root) {
         if(root==null)
         {
-            return l.size();
+            return 0;
         }
-        countNodes(root.left);
-        countNodes(root.right);
-        l.add(root.val);
-        return l.size();
+        return 1+countNodes(root.left)+countNodes(root.right);
+        
 
     }
 }
