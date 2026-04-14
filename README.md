@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1089-duplicate-zeros](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1250-check-if-it-is-a-good-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
