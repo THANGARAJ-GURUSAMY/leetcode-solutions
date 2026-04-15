@@ -25,11 +25,10 @@ class Solution {
         while(!q.isEmpty())
         {
             int n=q.size();
-            List<Integer> l=new ArrayList<>();
+           
             for(int i=0;i<n;i++)
             {
                 TreeNode temp=q.poll();
-                l.add(temp.val);
                 if(temp.left!=null)
                 {
                     q.add(temp.left);
