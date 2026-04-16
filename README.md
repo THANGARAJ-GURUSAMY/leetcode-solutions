@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1046-last-stone-weight](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1250-check-if-it-is-a-good-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Matrix
 |  |
