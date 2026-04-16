@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
