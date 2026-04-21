@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1816-truncate-sentence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -456,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
