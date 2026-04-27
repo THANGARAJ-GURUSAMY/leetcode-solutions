@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1550-three-consecutive-odds](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Quickselect
 |  |
@@ -464,5 +468,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
