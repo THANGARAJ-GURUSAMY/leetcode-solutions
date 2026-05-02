@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1544-make-the-string-great](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
