@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
