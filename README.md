@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
