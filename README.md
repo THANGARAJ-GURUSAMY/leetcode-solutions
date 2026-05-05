@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
