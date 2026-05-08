@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
@@ -542,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
