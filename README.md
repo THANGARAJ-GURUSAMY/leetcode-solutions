@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1598-crawler-log-folder](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1816-truncate-sentence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1816-truncate-sentence) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1859-sorting-the-sentence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1903-largest-odd-number-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
