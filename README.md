@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1345-jump-game-iv](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1306-jump-game-iii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
