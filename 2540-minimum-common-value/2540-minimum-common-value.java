@@ -3,7 +3,7 @@ class Solution {
         Set<Integer> set=new TreeSet<>();
         for(int t:nums1)
         {
-           set.add(t);
+            set.add(t);
         }
         for(int t:nums2)
         {
