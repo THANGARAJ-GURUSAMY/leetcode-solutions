@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0788-rotated-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0788-rotated-digits) |
