@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
