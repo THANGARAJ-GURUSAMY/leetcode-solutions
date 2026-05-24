@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1340-jump-game-v](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [2463-minimum-total-distance-traveled](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3660-jump-game-ix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
