@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [1871-jump-game-vii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3660-jump-game-ix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [1871-jump-game-vii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1871-jump-game-vii) |
 ## Enumeration
 |  |
 | ------- |
@@ -636,4 +639,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
