@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
