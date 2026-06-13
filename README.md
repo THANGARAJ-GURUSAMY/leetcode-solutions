@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3174-clear-digits) |
+| [3838-weighted-word-mapping](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
