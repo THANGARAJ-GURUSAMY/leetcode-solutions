@@ -16,9 +16,9 @@ class Solution {
             l.add(head.val);
             head=head.next;
         }
+        int max=Integer.MIN_VALUE;
         int left=0;
         int right=l.size()-1;
-        int max=Integer.MIN_VALUE;
         while(left<=right)
         {
             int num=l.get(left)+l.get(right);
@@ -27,6 +27,5 @@ class Solution {
             right--;
         }
         return max;
-
     }
 }
