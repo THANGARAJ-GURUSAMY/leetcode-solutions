@@ -16,12 +16,12 @@ class Solution {
             l.add(head.val);
             head=head.next;
         }
-        int mid=l.size()/2;
+        int m=l.size()/2;
         List<Integer> res=new ArrayList<>();
         int i=0;
         while(i<l.size())
         {
-            if(i!=mid)
+            if(i!=m)
             {
                 res.add(l.get(i));
             }
