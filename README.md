@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
