@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1544-make-the-string-great](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1345-jump-game-iv](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
