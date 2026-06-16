@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0944-delete-columns-to-make-sorted](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0944-delete-columns-to-make-sorted](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
