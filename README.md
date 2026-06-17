@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2000-reverse-prefix-of-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2027-minimum-moves-to-convert-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2027-minimum-moves-to-convert-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
