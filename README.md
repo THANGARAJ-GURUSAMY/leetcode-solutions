@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2000-reverse-prefix-of-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2027-minimum-moves-to-convert-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
