@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2103-rings-and-rods) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2540-minimum-common-value) |
