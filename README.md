@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2299-strong-password-checker-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
