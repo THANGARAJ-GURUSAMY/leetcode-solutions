@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2126-destroying-asteroids](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2540-minimum-common-value](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Sliding Window
 |  |
 | ------- |
