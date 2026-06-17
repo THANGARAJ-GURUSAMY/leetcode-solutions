@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0204-count-primes) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
