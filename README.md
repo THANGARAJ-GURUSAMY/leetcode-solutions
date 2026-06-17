@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2129-capitalize-the-title) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
