@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
+| [0766-toeplitz-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0766-toeplitz-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1861-rotating-the-box](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1861-rotating-the-box) |
