@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
