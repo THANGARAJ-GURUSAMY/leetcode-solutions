@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2299-strong-password-checker-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2315-count-asterisks](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
