@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2399-check-distances-between-same-letters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2399-check-distances-between-same-letters) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2437-number-of-valid-clock-times](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2437-number-of-valid-clock-times) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
