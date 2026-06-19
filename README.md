@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2409-count-days-spent-together](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2437-number-of-valid-clock-times](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2437-number-of-valid-clock-times) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2399-check-distances-between-same-letters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2399-check-distances-between-same-letters) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2540-minimum-common-value](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Sliding Window
 |  |
 | ------- |
