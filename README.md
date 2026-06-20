@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2833-furthest-point-from-origin](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2506-count-pairs-of-similar-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2833-furthest-point-from-origin](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
