@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2864-maximum-odd-binary-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2864-maximum-odd-binary-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3099-harshad-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2864-maximum-odd-binary-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
