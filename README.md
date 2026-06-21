@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
