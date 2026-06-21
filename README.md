@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3707-equal-score-substrings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3707-equal-score-substrings) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3798-largest-even-number) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [3707-equal-score-substrings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3707-equal-score-substrings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
