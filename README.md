@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3582-generate-tag-for-video-caption](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3612-process-string-with-special-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3707-equal-score-substrings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3707-equal-score-substrings) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3582-generate-tag-for-video-caption](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3612-process-string-with-special-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
