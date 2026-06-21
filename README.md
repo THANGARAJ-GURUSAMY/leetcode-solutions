@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3174-clear-digits) |
+| [3330-find-the-original-typed-string-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
