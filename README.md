@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3921-score-validator](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3921-score-validator) |
 ## Binary Search
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |
