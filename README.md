@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3340-check-balanced-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3488-closest-equal-element-queries](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
