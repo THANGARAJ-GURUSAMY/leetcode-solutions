@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1332-remove-palindromic-subsequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-increasing-decreasing-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1436-destination-city](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1436-destination-city) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
