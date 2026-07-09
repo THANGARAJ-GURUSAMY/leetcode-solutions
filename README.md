@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0788-rotated-digits) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
