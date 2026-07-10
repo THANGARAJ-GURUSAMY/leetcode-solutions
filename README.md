@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2784-check-if-array-is-good](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
@@ -630,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3660-jump-game-ix) |
@@ -723,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -1016,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
