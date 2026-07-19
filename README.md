@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1544-make-the-string-great) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Geometry
