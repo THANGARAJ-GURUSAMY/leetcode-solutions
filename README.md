@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0396-rotate-function) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0456-132-pattern) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0476-number-complement) |
@@ -600,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
