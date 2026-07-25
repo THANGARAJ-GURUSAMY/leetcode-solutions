@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
