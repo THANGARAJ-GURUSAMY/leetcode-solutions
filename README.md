@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2937-make-three-strings-equal](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
