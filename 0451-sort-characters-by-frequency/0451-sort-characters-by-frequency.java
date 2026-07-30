@@ -15,8 +15,6 @@ class Solution {
             }
            map.put(c,map.getOrDefault(c,0)+1);
         }
-        List<Character> l1=new ArrayList<>(set1);
-        List<Character> l2=new ArrayList<>(set2);
         int max=-1;
         for(char c:map.keySet())
         {
