@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0541-reverse-string-ii) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0392-is-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0788-rotated-digits) |
