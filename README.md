@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0456-132-pattern) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -990,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1020,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -1098,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Game Theory
 |  |
