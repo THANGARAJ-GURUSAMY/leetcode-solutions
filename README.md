@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
