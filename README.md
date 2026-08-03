@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -1111,4 +1114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0877-stone-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
