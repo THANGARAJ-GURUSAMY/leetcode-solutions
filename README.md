@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0495-teemo-attacking](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0523-continuous-subarray-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0704-binary-search) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
