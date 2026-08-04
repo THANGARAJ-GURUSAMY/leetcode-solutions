@@ -1,29 +1,23 @@
 class Solution {
     public int balancedStringSplit(String s) {
-        int c=0;
-        int lc=0;
-        int rc=0;
-        int i=0;
-        while(i<s.length())
+      int l=0;
+      int r=0;
+      int c=0;
+      for(char ch:s.toCharArray())
+      {
+        if(ch=='L')
         {
-            char ch=s.charAt(i);
-            if(ch=='L')
-            {
-                lc++;
-            }
-            if(ch=='R')
-            {
-                rc++;
-            }
-            if(lc==rc)
-            {
-                c++;
-                lc=0;
-                rc=0;
-            }
-            i++;
+            l++;
         }
-        return c;
-        
+        else if(ch=='R')
+        {
+            r++;
+        }
+        if(l==r)
+        {
+            c++;
+        }
+      }
+      return c;
     }
 }
