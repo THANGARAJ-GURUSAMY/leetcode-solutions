@@ -10,8 +10,8 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode prev=null;
         ListNode curr=head;
+        ListNode prev=null;
         while(curr!=null)
         {
             ListNode next=curr.next;
@@ -19,37 +19,36 @@ class Solution {
             prev=curr;
             curr=next;
         }
-        ListNode cuss=prev;
+        ListNode temp=prev;
         if(n==1)
         {
-            cuss=cuss.next;
+            temp=temp.next;
         }
         else
         {
-            ListNode temp=cuss;
+            ListNode t=temp;
             int c=1;
-            while(temp!=null&&temp.next!=null)
+            while(t!=null)
             {
                 if(c==n-1)
                 {
-                    temp.next=temp.next.next;
+                    t.next=t.next.next;
                     break;
                 }
-                temp=temp.next;
+                t=t.next;
                 c++;
             }
+           
         }
-        prev=null;
-        curr=cuss;
-        while(curr!=null)
-        {
-            ListNode nn=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=nn;
-        }
+         prev=null;
+            curr=temp;
+            while(curr!=null)
+            {
+                ListNode next=curr.next;
+                curr.next=prev;
+                prev=curr;
+                curr=next;
+            }
         return prev;
-      
-        
     }
 }
