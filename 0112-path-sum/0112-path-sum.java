@@ -25,6 +25,5 @@ class Solution {
         }
         int rem=targetSum-root.val;
         return hasPathSum(root.left,rem)||hasPathSum(root.right,rem);
-        
     }
 }
