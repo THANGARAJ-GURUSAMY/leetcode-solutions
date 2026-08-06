@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2437-number-of-valid-clock-times](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2437-number-of-valid-clock-times) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
