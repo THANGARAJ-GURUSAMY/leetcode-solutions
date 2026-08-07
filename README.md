@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0125-valid-palindrome) |
