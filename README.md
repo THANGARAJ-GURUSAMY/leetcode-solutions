@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3174-clear-digits) |
+| [3210-find-the-encrypted-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 | [3248-snake-in-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
