@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3161-block-placement-queries) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3110-score-of-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3110-score-of-a-string) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Stack
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0796-rotate-string) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -1181,4 +1185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
