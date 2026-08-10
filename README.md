@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1871-jump-game-vii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
