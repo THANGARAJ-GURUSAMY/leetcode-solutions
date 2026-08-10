@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
