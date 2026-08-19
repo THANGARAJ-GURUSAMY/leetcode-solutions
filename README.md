@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1436-destination-city](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
+| [1386-cinema-seat-allocation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1436-destination-city) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1386-cinema-seat-allocation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1833-maximum-ice-cream-bars](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
