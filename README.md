@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
