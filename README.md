@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2027-minimum-moves-to-convert-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
