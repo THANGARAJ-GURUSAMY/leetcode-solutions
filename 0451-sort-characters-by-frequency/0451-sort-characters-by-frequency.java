@@ -1,54 +1,55 @@
 class Solution {
     public String frequencySort(String s) {
-        Set<Character> set1=new HashSet<>();
-        Set<Character> set2=new HashSet<>();
-        Map<Character,Integer> map=new HashMap<>();
+        Set<Character> s1=new HashSet<>();
+        Set<Character> s2=new HashSet<>();
+        Map<Character,Integer> m=new HashMap<>();
         for(char c:s.toCharArray())
         {
             if(Character.isUpperCase(c))
             {
-                set1.add(c);
+                s1.add(c);
             }
             else
             {
-                set2.add(c);
+                s2.add(c);
             }
-           map.put(c,map.getOrDefault(c,0)+1);
-        }
-        int max=-1;
-        for(char c:map.keySet())
-        {
-            int n=map.get(c);
-            max=Math.max(max,n);
+            m.put(c,m.getOrDefault(c,0)+1);
+
         }
         StringBuilder sb=new StringBuilder();
+        int max=0;
+        for(char c:m.keySet())
+        {
+            int num=m.get(c);
+            max=Math.max(max,num);
+
+        }
         while(max>0)
         {
-           for(char c:set1)
-           {
-              int n=map.get(c);
-              if(max==n)
-              {
-                for(int i=0;i<n;i++)
-                {
-                    sb.append(c);
-                }
-              }
-           }
-           for(char c:set2)
-           {
-            int n=map.get(c);
-            if(max==n)
+            for(char c:s1)
             {
-                for(int i=0;i<n;i++)
+                int num=m.get(c);
+                if(num==max)
                 {
-                    sb.append(c);
+                    for(int i=0;i<num;i++)
+                    {
+                        sb.append(c);
+                    }
                 }
             }
-           }
-           max--;
+            for(char c:s2)
+            {
+                int num=m.get(c);
+                if(num==max)
+                {
+                   for(int i=0;i<num;i++)
+                   {
+                    sb.append(c);
+                   }
+                }
+            }
+            max--;
         }
         return sb.toString();
-        
     }
 }
