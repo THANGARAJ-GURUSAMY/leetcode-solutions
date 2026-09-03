@@ -1263,4 +1263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
