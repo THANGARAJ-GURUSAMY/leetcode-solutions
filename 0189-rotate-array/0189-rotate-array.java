@@ -1,11 +1,10 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        
         int n=nums.length;
         k=k%n;
-        int[] res=new int[nums.length];
+        int[] res=new int[n];
         int k1=0;
-        for(int i=n-k;i<nums.length;i++)
+        for(int i=n-k;i<n;i++)
         {
             res[k1]=nums[i];
             k1++;
@@ -15,7 +14,7 @@ class Solution {
             res[k1]=nums[i];
             k1++;
         }
-        for(int i=0;i<nums.length;i++)
+        for(int i=0;i<n;i++)
         {
             nums[i]=res[i];
         }
