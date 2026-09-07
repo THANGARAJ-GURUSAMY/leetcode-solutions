@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0268-missing-number) |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1269,13 +1273,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0169-majority-element) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
