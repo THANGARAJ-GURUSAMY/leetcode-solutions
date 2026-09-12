@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3941-password-strength) |
+| [4006-count-valid-prefixes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Simulation
 |  |
 | ------- |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4006-count-valid-prefixes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Sliding Window
 |  |
 | ------- |
