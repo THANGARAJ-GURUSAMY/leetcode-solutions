@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Linked List
 |  |
 | ------- |
