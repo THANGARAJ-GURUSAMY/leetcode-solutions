@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3921-score-validator) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4020-elevator-requests-i) |
+| [4024-nearest-available-drone](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
 | ------- |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4024-nearest-available-drone](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Number Theory
 |  |
 | ------- |
