@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3921-score-validator) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Binary Search
 |  |
 | ------- |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Number Theory
 |  |
 | ------- |
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Greedy
 |  |
 | ------- |
