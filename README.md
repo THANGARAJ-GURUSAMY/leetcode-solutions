@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Tree
 |  |
