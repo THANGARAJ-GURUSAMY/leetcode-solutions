@@ -4,7 +4,7 @@ class Solution {
         {
             return false;
         }
-        String c=s+s;
-        return c.contains(goal);
+        String m=s+s;
+        return m.contains(goal);
     }
 }
