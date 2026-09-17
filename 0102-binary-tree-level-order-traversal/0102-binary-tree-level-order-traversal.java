@@ -38,7 +38,6 @@ class Solution {
                 {
                     q.add(t.right);
                 }
-
             }
             l.add(l1);
         }
