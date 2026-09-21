@@ -16,14 +16,14 @@
 class Solution {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> l = new ArrayList<>();
-        if(root==null){
+        if(root == null){
             return l;
         }
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
             int n = q.size();
-            List<Integer> l1 =  new ArrayList<>();
+            List<Integer> l1 = new ArrayList<>();
             for(int i=0; i<n; i++){
                 TreeNode t = q.poll();
                 l1.add(t.val);
