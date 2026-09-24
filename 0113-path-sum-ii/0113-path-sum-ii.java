@@ -16,25 +16,26 @@
 class Solution {
     List<List<Integer>> l=new ArrayList<>();
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        find(root,targetSum, new ArrayList<>());
+        find(root,targetSum,new ArrayList<>());
         return l;
-
     }
-    void find(TreeNode root, int targetSum, List<Integer> path){
-        if(root == null){
-            return ;
+    void find(TreeNode root,int sum,List<Integer> path)
+    {
+        if(root==null)
+        {
+            return;
         }
         path.add(root.val);
-        targetSum -= root.val;
-        if(root.left == null && root.right == null){
-            if(targetSum == 0){
+        sum-=root.val;
+        if(root.left==null&&root.right==null)
+        {
+            if(sum==0)
+            {
                 l.add(new ArrayList<>(path));
             }
         }
-        find(root.left, targetSum, path);
-        find(root.right, targetSum, path);
-
-        path.remove(path.size() - 1);
+        find(root.left,sum,path);
+        find(root.right,sum,path);
+        path.remove(path.size()-1);
     }
-  
 }
