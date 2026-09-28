@@ -14,29 +14,26 @@
  * }
  */
 class Solution {
-    int count=0;
+    int count = 0;
     public int pathSum(TreeNode root, int targetSum) {
         if(root==null)
         {
-            return 0;
+            return count;
         }
-        find(root,targetSum);
+        find(root,(long)targetSum);
         pathSum(root.left,targetSum);
         pathSum(root.right,targetSum);
         return count;
     }
-    void find(TreeNode root,long sum)
-    {
-        if(root==null)
-        {
+    public void find(TreeNode root, long targetSum){
+        if(root == null){
             return;
         }
-        sum-=root.val;
-        if(sum==0)
-        {
+        targetSum-=root.val;
+        if(targetSum==0){
             count++;
         }
-        find(root.left,sum);
-        find(root.right,sum);
+        find(root.left,targetSum);
+        find(root.right,targetSum);
     }
 }
