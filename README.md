@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0830-positions-of-large-groups](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
@@ -1412,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
