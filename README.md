@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
