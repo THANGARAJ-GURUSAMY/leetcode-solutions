@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3921-score-validator) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3894-traffic-signal-color](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -968,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Number Theory
