@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1254-number-of-closed-islands](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-increasing-decreasing-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -1199,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1282,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1096-brace-expansion-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -1324,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1348,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
