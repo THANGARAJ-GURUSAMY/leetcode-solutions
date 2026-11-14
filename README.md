@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
@@ -1398,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3707-equal-score-substrings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3707-equal-score-substrings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
