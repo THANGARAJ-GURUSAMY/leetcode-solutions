@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-three-consecutive-odds](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1598-crawler-log-folder](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1598-crawler-log-folder) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1871-jump-game-vii) |
@@ -1395,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
