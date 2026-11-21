@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3330-find-the-original-typed-string-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3330-find-the-original-typed-string-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3340-check-balanced-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -1194,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -1236,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-evaluate-boolean-binary-tree](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
