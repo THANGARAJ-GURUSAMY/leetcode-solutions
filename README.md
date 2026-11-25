@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0905-sort-array-by-parity](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1096-brace-expansion-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
