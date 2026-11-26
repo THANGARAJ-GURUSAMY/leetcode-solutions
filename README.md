@@ -1558,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 ## DP on Trees
 |  |
@@ -1641,4 +1642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
