@@ -4,9 +4,13 @@ class Solution {
         int c=0;
         for(int i=0;i<=m.length()-k;i++)
         {
-            String m1=m.substring(i,i+k);
-            int num1=Integer.parseInt(m1);
-            if(num1!=0&&num%num1==0)
+            String a="";
+            for(int j=i;j<i+k;j++)
+            {
+                a+=m.charAt(j);
+            }
+            int n=Integer.parseInt(a);
+            if(n!=0&&num%n==0)
             {
                 c++;
             }
