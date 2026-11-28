@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4024-nearest-available-drone) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Linked List
 |  |
@@ -1421,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
