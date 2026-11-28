@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -1094,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
