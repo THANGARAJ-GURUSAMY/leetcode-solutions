@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0748-shortest-completing-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0796-rotate-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/THANGARAJ-GURUSAMY/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
